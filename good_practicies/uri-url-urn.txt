@@ -1,0 +1,55 @@
+Repository about good practicies into the programming skill.
+This documentation is part of https://github.com/killabomb/consigliere/good_practicies
+credits to :: https://whatis.techtarget.com/definition/URI-Uniform-Resource-Identifier
+reintroduced by :: killabomb
+
+# Uma URI (Uniform Resource Identifier) é uma sequência de caracteres que identifica um recurso físico ou lógico.
+# Existem dois tipos de URI: URL e URN.
+# Uma URL (Uniform Resource Locator) é a sequência de caracteres colocada depois do URI para localizar o recurso.
+# Uma URN (Uniform Resource Name) é a sequência de caracteres colocada depois do URI para localizar o recurso.
+
+# Toda URL também é uma URI, mas não vice versa.
+
+** Tipos de URI **
+
+	skype:
+	bitcoin:
+	sms:
+	spotify:
+
+	http://
+	https://
+	svn://
+	cvs:// 
+	git:// 
+	imap:// 
+	irc:// 
+	irc6://
+	ircs:// 
+	ldap:// 
+	ldaps:// 
+	news://
+	telnet://
+	gopher://
+	ssh://
+	sftp://
+	smb://
+	snmp://
+	steam://
+	slack://
+	chrome://
+
+** Tipos de URL **
+
+	www.github.com
+	github.com
+	pokerstars.net
+	example.wiki
+
+** Exemplos de uma URI completa **
+
+	https://www.gibhub.com
+	mailto:example@github.com
+	bitcoin:8cc32152ec61f69ffd66d8aca08039013732a744aa50acc1f3759a47797ebb6a?amount=1
+
+#end
