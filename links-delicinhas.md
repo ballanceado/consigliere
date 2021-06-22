@@ -5,9 +5,9 @@ Lista de Links que me ajudam e provavelmente pode te ajudar também!
 <b>INTERNET:</b> <a href='https://www.submarinecablemap.com'>Submarine Clabe Map</a></br>
 
 <h2>CONHECIMENTO</h2>
-<b>UNIVERSITY:</b> <a href='https://cs50.harvard.edu/x'>HARVARD: CS50 - Introdução à Ciência da Computação</></br>
-<b>POST:</b> <a href='https://www.lewagon.com/pt-BR/blog/dicionario-de-termos-computacao'>LE WAGON: Termos da Computação</></br>
-<b>POST:</b> <a href='https://www.lewagon.com/pt-BR/blog/dicionario-de-termos-computacao'>LE WAGON: Termos da Computação</></br>
+<b>UNIVERSITY:</b> <a href='https://cs50.harvard.edu/x'>HARVARD: CS50 - Introdução à Ciência da Computação</a></br>
+<b>POST:</b> <a href='https://www.lewagon.com/pt-BR/blog/dicionario-de-termos-computacao'>LE WAGON: Termos da Computação</a></br>
+<b>POST:</b> <a href='https://www.lewagon.com/pt-BR/blog/dicionario-de-termos-computacao'>LE WAGON: Termos da Computação</a></br>
 
 
 <h2>🎨 FRONT-END</h2>
