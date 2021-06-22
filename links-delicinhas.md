@@ -2,6 +2,7 @@
 Lista de Links que me ajudam e provavelmente pode te ajudar também!
 
 <h2>COOL STUFF</h2>
+<b>INTERNET:</b> <a href='https://www.infrapedia.com/app'>Global Internet Infrastructure Map</a></br>
 <b>INTERNET:</b> <a href='https://www.submarinecablemap.com'>Submarine Clabe Map</a></br>
 
 <h2>CONHECIMENTO</h2>
