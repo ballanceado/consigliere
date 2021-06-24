@@ -17,6 +17,12 @@ Lista de Links que me ajudam e provavelmente pode te ajudar também!
 <h2>👨‍💻 BACK-END</h2>
 <b>SUPERLIST:</b> <a href='https://github.com/danistefanovic/build-your-own-x'>Build your own X</a></br>
 </br>
+
+https://docs.microsoft.com/pt-br/azure/devops/repos/git/use-ssh-keys-to-authenticate?view=azure-devops
+https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories#switching-remote-urls-from-https-to-ssh
+
+
 <b>GIT:</b> <a href='https://www.youtube.com/watch?v=O2DFKHla80A'>Como enviar um projeto para o GitHub? (SEM ENROLAÇÃO)</a></br>
 <b>GIT:</b> <a href=http://guides.beanstalkapp.com/version-control/common-git-commands.html>Common Git Commands</a></br>
 <b>GIT:</b> <a href='https://brorlandi.github.io/2017/03/12/Git-primeiros-passos'>Começando com Git em linha de comando</a></br>
